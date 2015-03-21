@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sporty</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="incorrect_email_id">Email ID is Incorrect</string>
+    <string name="default_service_error">We are Sorry, there is some error connecting with servers, please try again.</string>
+    <string name="default_internet_error">We are Sorry, it seems you are not connected to internet, please try again.</string>
+    <string name="title_activity_skip_screen">SkipScreen</string>
+    <string name="org_text">For Organisations</string>
+    <string name="indivisual_text">For Indivisuals</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_jobs_list">JobsList</string>
+    <string name="title_activity_job_detail">JobDetail</string>
+    <string name="title_activity_create_jobs">CreateJobs</string>
+    
+    <string-array name="jobs_location_ar">
+        
+        <item >Noida</item>
+        <item >Gurganv</item>
+        <item >Delhi</item>
+    </string-array>
+    <string-array name="jobs_types_ar">
+        
+        <item >Full Time</item>
+        <item >Permanent</item>
+        <item >Contract</item>
+    </string-array>
+
+</resources>
